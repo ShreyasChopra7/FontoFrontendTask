@@ -1,0 +1,75 @@
+.app {
+  margin: 40px;
+}
+
+h1 {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+  margin-bottom: 80px;
+}
+
+table {
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+th {
+  background-color: lightgray;
+}
+
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.btn-wrapper {
+  text-align: right;
+  width: 60%;
+  margin: 10px auto;
+  margin-bottom: 40px;
+  font-size: 16px;
+}
+
+button {
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  background-color: cadetblue;
+  color: white;
+  cursor: pointer;
+}
+
+.ReactModal__Overlay {
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
+
+.ReactModal__Content {
+  width: 40%;
+  margin: 0 auto;
+  height: max-content;
+  padding-bottom: 40px;
+}
+
+input {
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: 1px solid gray;
+}
+
+fieldset {
+  border: none;
+  margin-bottom: 20px;
+}
+
+label {
+  margin-right: 10px;
+}
+
+.button-wrapper button {
+  margin-right: 20px;
+}
+.button-wrapper {
+  text-align: right;
+}
